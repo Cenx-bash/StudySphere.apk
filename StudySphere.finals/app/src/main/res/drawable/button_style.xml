@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="12dp" /> <!-- Slightly softer corners for a modern look -->
+    <solid android:color="?attr/colorPrimary" /> <!-- Uses theme color for consistency -->
+    <stroke android:width="1dp" android:color="?attr/colorPrimaryVariant" /> <!-- Subtle border -->
+    <padding android:top="8dp" android:bottom="8dp" android:left="16dp" android:right="16dp" />
+</shape>
